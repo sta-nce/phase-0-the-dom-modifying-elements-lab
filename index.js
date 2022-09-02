@@ -11,4 +11,3 @@ newHeader.innerHTML = "Stance is the champion";
 
 
 
-
